@@ -11,9 +11,9 @@ Task 2: Lookalike Model
        Recommendations: [SaiKumar_Yerraguntla_Lookalike.csv]
 
 Task 3: Customer Segmentation
-       Clustering Code:** [SaiKumar_Yerraguntla_Clustering.ipynb]
-       Cluster Assignments:** [SaiKumar_Yerraguntla_Clustering.csv]
-       Clustering Report:** [SaiKumar_Yerraguntla_Clustering.pdf]
+       Clustering Code: [SaiKumar_Yerraguntla_Clustering.ipynb]
+       Cluster Assignments: [SaiKumar_Yerraguntla_Clustering.csv]
+       Clustering Report: [SaiKumar_Yerraguntla_Clustering.pdf]
 
 Instructions
 - Download the repository.
